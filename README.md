@@ -57,13 +57,13 @@ Open your browser to see Connectify in action.
 Changes in the code will hot-reload automatically.
 
 🖥️ **Usage**
-Sign up or log in to start using the platform
-Post your projects to find collaborators or teammates
-Browse projects posted by other users
-Chat with users to discuss ideas or join teams
+- Sign up or log in to start using the platform
+- Post your projects to find collaborators or teammates
+- Browse projects posted by other users
+- Chat with users to discuss ideas or join teams
 
 🚧 **Future Work**
-Notifications for messages, project requests, and follows
-Responsive UI/UX improvements with animations
-Advanced search and filtering for projects and users
-Enhanced real-time chat features with typing indicators and online status
+- Notifications for messages, project requests, and follows
+- Responsive UI/UX improvements with animations
+- Advanced search and filtering for projects and users
+- Enhanced real-time chat features with typing indicators and online status
