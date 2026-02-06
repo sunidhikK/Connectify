@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+# Connectify 🤝💻
+Welcome to **Connectify**!  
+A social networking platform that allows users to **share projects, find collaborators, and connect with like-minded people** in real-time.
 
-## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🌟 **Introduction**  
+Connectify is designed to bring creators, developers, and students together. Users can post their projects, discover others’ work, and find teammates or collaborators for exciting projects. With real-time messaging and project discovery, building your dream team has never been easier!  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+✨ **Features**
+- **User Authentication:** Sign up and log in securely  
+- **Project Sharing:** Create and showcase your projects  
+- **Collaboration:** Find teammates or hire people for projects  
+- **Messaging & Chat:** Communicate with other users in real-time  
+- **Search & Discovery:** Browse projects or users based on interests  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+🛠️ **Tech Stack**
 
-Changes made via Lovable will be committed automatically to this repo.
+| Layer                  | Technology |
+|------------------------|------------|
+| **Frontend**           | React 18, TypeScript, Vite |
+| **Styling**            | Tailwind CSS, shadcn/ui |
+| **Routing**            | React Router v6 |
+| **State/Data**         | TanStack React Query |
+| **Forms & Validation** | React Hook Form + Zod |
+| **Backend / BaaS**     | Lovable Cloud (Supabase) |
+| **Database**           | PostgreSQL with Row-Level Security (RLS) |
+| **Authentication**     | Supabase Auth |
+| **Icons**              | Lucide React |
+| **Charts & Visuals**   | Recharts |
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🚀 **Installation**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**Requirements:**  
+- Node.js v18+  
+- npm  
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+**Steps:**  
+1. Clone the repository  
+```bash
+git clone <YOUR_REPOSITORY_URL>
+cd connectify
 ```
+Install dependencies-
+npm install
 
-**Edit a file directly in GitHub**
+Start the development server-
+npm run dev
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
+Open your browser to see Connectify in action.
+Changes in the code will hot-reload automatically.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🖥️ **Usage**
+Sign up or log in to start using the platform
+Post your projects to find collaborators or teammates
+Browse projects posted by other users
+Chat with users to discuss ideas or join teams
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+🚧 **Future Work**
+Notifications for messages, project requests, and follows
+Responsive UI/UX improvements with animations
+Advanced search and filtering for projects and users
+Enhanced real-time chat features with typing indicators and online status
